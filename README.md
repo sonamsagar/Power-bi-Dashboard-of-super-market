@@ -1,1 +1,1 @@
-# Power-bi-Dashboard-of-Sales of super-market
+# Power-bi-Dashboard-of super-market-Sales
